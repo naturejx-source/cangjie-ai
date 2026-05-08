@@ -1,0 +1,11 @@
+UTF-8 plain text only. Put any number of .txt or .md here.
+
+Naming: use numeric prefix so order is stable (010_xxx.txt, 020_yyy.md).
+
+What to feed:
+- Short mood notes, fake history for atmosphere, HK internet phrases you like, code-switch examples (CN+EN).
+- Keep each file small; total injected text is capped (see --flavor-max-chars).
+
+What NOT to expect:
+- This does not train the model; it only steers style via system prompt context.
+- Linguistics of Cantonese is not decided by Five Dynasties stories; use lore as voice, not as textbook fact.
